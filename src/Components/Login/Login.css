@@ -1,0 +1,42 @@
+
+.container {
+    text-align: center;
+    background-color: #ffffffe3;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-left: "50%";
+  }
+  .heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .inputcontainer {
+    max-width: 300px;
+    margin: 8em;
+  }
+
+  .heading {
+    font-size: 35px;
+    margin-bottom: 20px;
+  }
+
+  input {
+    height: 35px;
+    width: 120%;
+    border-radius: 25px;
+    margin: 15px 0;
+    padding: 5px 10px;
+    box-sizing: border-box;
+  }
+
+  button {
+    height: 35px;
+    width: 120%;
+    border-radius: 25px;
+    margin: 15px 0;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
